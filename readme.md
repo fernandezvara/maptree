@@ -1,6 +1,8 @@
 # maptree 
 
-This is a helper library that can be useful if you need to describe data in a tree. Imagine a directory to show with files or any other data that can be structured in that way.
+This is a helper library that can be useful if you need to describe data in a tree. 
+
+A directory with files to show or any other data that can be structured in that way (documentation, etc).
 
 
 *This is not a radix tree and does not pretend it in any way.*
@@ -42,7 +44,10 @@ func main() {
 ```
 
 
-This is the json formatted output: (this can be walked on your javascript applications easily, as example)
+This is the JSON formatted output: 
+
+(this can be easily walked on your javascript applications, as example)
+
 ``` 
 {
   "items": {
